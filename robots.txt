@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tamondigital.github.io/dharma-notes/sitemap-index.xml
