@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tamondigital.github.io/dharma-notes/sitemap-index.xml
+Sitemap: https://tiedy.com/dharma-notes/sitemap-index.xml
