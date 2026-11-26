@@ -1,0 +1,6 @@
+# 講經筆記
+
+> 體佛法師於賢首禪苑歷年講經的學習筆記與完整逐字稿。
+
+- [體佛法師講經筆記](https://tiedy.com/dharma-notes/)：各講經系列、名相・人物・地名索引與引用經論
+- [完整網站地圖（llms.txt）](https://tiedy.com/dharma-notes/llms.txt)
