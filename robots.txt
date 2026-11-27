@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://tiedy.com/dharma-notes/sitemap-index.xml
 Sitemap: https://tiedy.com/dharma-translations/sitemap-index.xml
+Sitemap: https://tiedy.com/sitemap.xml
