@@ -55,6 +55,10 @@ The header (labels in the site's own language; dharma-notes uses 選單 / 字體
 <script src="…/chrome.js" defer></script>
 ```
 
+**Home link.** Every app's nav starts with a link back to the landing page (`https://tiedy.com/`; 首頁 / Home).
+The landing page itself (`/index.html` in this repo) is built from this theme and is the model for a new app's
+home: `.hero`, `.cards`, `.notice`.
+
 ## Layout rules
 
 - **Widths.** `.page` (1080 px) for lists and prose; `.page.wide` (1280 px) for a reader with a rail. Side gutter
